@@ -1,0 +1,3 @@
+bricks:
+  flame_position_component:
+    path: ./flame_position_component
