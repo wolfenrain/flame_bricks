@@ -1,7 +1,7 @@
 name: flame_position_component
 description: Generate a PositionComponent for the Flame Engine.
-version: 0.1.0
-repository: https://github.com/wolfenrain/flame_bricks/bloc/tree/flame_position_component
+version: 0.1.0+1
+repository: https://github.com/wolfenrain/flame_bricks/tree/main/flame_position_component
 
 environment:
   mason: ">=0.1.0-dev <0.1.0"
